@@ -7,3 +7,5 @@ https://blog.tanukitrade.com/what-is-gamma-exposure-gex-and-why-traders-should-c
 https://medium.com/@simplifiedzone/mastering-classification-in-trading-with-logistic-regression-9dd12a05fb70?source=post_page---read_next_recirc--8e7980bf7458----3---------------------baea3adb_4096_4421_9c5f_b0326047417c--------------
 https://blog.tanukitrade.com/what-is-gamma-exposure-gex-and-why-traders-should-care-a4d2ae130056?source=post_page---read_next_recirc--8e7980bf7458----2---------------------baea3adb_4096_4421_9c5f_b0326047417c--------------
 https://medium.com/@jsgastoniriartecabrera/building-a-multi-timeframe-trading-predictor-inspired-by-nobel-prize-physics-2024-50bd4ad7c6e2?source=post_page---read_next_recirc--8e7980bf7458----0---------------------baea3adb_4096_4421_9c5f_b0326047417c--------------
+
+<img width="500" height="642" alt="Captura de tela 2025-11-28 083915" src="https://github.com/user-attachments/assets/db10abdd-3201-4af5-a3e2-2bc67155f507" />
