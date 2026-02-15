@@ -1,4 +1,6 @@
 # finops
+![FB_IMG_1769556734463](https://github.com/user-attachments/assets/8720935a-a29a-4420-9e11-0b88b5efb526)
+
 https://wire.insiderfinance.io/machine-learning-for-quants-series-with-python-part-1-8e7980bf7458
 https://medium.com/@simplifiedzone/mastering-financial-visualization-with-python-matplotlib-seaborn-c12875cd1fc5?source=post_page---author_recirc--8e7980bf7458----3---------------------e006964a_b3c1_41c9_82f8_9b60330358db--------------
 https://wire.insiderfinance.io/from-charts-graphs-maps-to-dashboards-evaluating-the-50-best-python-data-visualization-tools-1d966e2420f0?source=post_page---author_recirc--8e7980bf7458----2---------------------e006964a_b3c1_41c9_82f8_9b60330358db--------------https://medium.com/@simplifiedzone/alternative-to-yfinance-for-fetching-financial-data-with-code-examples-665266a51669?source=post_page---author_recirc--8e7980bf7458----0---------------------e006964a_b3c1_41c9_82f8_9b60330358db--------------
