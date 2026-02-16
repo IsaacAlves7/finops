@@ -1,4 +1,6 @@
 # finops
+<img width="466" height="586" alt="Captura de tela 2026-01-12 183717" src="https://github.com/user-attachments/assets/ae7b6c42-9173-4dca-9b56-3705dbf85cab" />
+
 ![FB_IMG_1769556734463](https://github.com/user-attachments/assets/8720935a-a29a-4420-9e11-0b88b5efb526)
 
 - https://wire.insiderfinance.io/machine-learning-for-quants-series-with-python-part-1-8e7980bf7458
