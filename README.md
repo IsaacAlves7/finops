@@ -1,5 +1,6 @@
 # finops
 <img width="466" height="586" alt="Captura de tela 2026-01-12 183717" src="https://github.com/user-attachments/assets/ae7b6c42-9173-4dca-9b56-3705dbf85cab" />
+
 ![Screenshot_20241211-220403_Instagram](https://github.com/user-attachments/assets/0d09c7dc-5c03-4d99-9b75-25671db7acde)
 ![Screenshot_20250103-200546_Instagram](https://github.com/user-attachments/assets/c940f3c9-b6f5-4ab7-afbc-8cd53b20964b)
 ![FB_IMG_1769556734463](https://github.com/user-attachments/assets/8720935a-a29a-4420-9e11-0b88b5efb526)
