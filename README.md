@@ -16,3 +16,7 @@
 - https://medium.com/@jsgastoniriartecabrera/building-a-multi-timeframe-trading-predictor-inspired-by-nobel-prize-physics-2024-50bd4ad7c6e2?source=post_page---read_next_recirc--8e7980bf7458----0---------------------baea3adb_4096_4421_9c5f_b0326047417c--------------
 
 <img width="500" height="642" alt="Captura de tela 2025-11-28 083915" src="https://github.com/user-attachments/assets/db10abdd-3201-4af5-a3e2-2bc67155f507" />
+
+Preste atenção nesses padrões, eles vão te ajudar a bater sua meta
+
+![Screenshot_20240808-170827_Instagram](https://github.com/user-attachments/assets/b34eceaa-9b87-453d-995b-a5f9a046c601)
