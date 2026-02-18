@@ -20,3 +20,5 @@
 Preste atenção nesses padrões, eles vão te ajudar a bater sua meta
 
 ![Screenshot_20240808-170827_Instagram](https://github.com/user-attachments/assets/b34eceaa-9b87-453d-995b-a5f9a046c601)
+
+![Screenshot_20240807-145908_Facebook](https://github.com/user-attachments/assets/fb1ea14e-4f33-414a-be89-35ba79577733)
