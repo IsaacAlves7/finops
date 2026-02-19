@@ -42,3 +42,4 @@ Gostaríamos de ver mais guias de negociação no mercado de ações.
 ![Screenshot_20240807-182157_Instagram](https://github.com/user-attachments/assets/9352c321-fdea-449f-9fc9-b67d1b32515c)
 ![Screenshot_20240807-203022_Facebook](https://github.com/user-attachments/assets/15e8a476-6a1b-4450-b9a6-a722b8985dc4)
 
+
