@@ -22,3 +22,15 @@ Preste atenção nesses padrões, eles vão te ajudar a bater sua meta
 ![Screenshot_20240808-170827_Instagram](https://github.com/user-attachments/assets/b34eceaa-9b87-453d-995b-a5f9a046c601)
 
 ![Screenshot_20240807-145908_Facebook](https://github.com/user-attachments/assets/fb1ea14e-4f33-414a-be89-35ba79577733)
+
+![Screenshot_20240802-105531_Facebook](https://github.com/user-attachments/assets/bcc5d79d-a9de-4ae0-85d1-f7a4757cf9cb)
+
+![Screenshot_20240806-125256_Facebook](https://github.com/user-attachments/assets/72147552-bb16-41d0-9aeb-3110ac7f159e)
+
+Os gráficos de velas são a melhor ferramenta de investimento para todo investidor. Ao ler as formas e os padrões das velas, você pode prever os movimentos dos preços das ações com base nos gráficos e saber quando comprar e vender.
+Nossa equipe está no mercado há quase 20 anos e tem uma perspectiva única sobre a escolha de ações.
+Para operações de curto prazo, há análises sobre notícias, dinheiro e técnicas de linha K.
+Para investimento de longo prazo, especialmente investimento em valor, analisarei os dados financeiros da empresa. Analisarei os dados financeiros da empresa, o status do setor, a tendência da linha K e as informações de negociação das principais instituições.
+Analisarei diariamente o conhecimento sobre ações, mercados e ações individuais do grupo
+
+Gostaríamos de ver mais guias de negociação no mercado de ações.
