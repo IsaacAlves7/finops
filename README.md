@@ -1,4 +1,7 @@
 # finops
+![Screenshot_20240705-202422_Facebook](https://github.com/user-attachments/assets/f207302e-5669-4dda-b4ad-9cbc6afacf31)
+
+
 <img width="466" height="586" alt="Captura de tela 2026-01-12 183717" src="https://github.com/user-attachments/assets/ae7b6c42-9173-4dca-9b56-3705dbf85cab" />
 
 ![Screenshot_20241211-220403_Instagram](https://github.com/user-attachments/assets/0d09c7dc-5c03-4d99-9b75-25671db7acde)
