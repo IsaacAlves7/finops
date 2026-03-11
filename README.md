@@ -1,12 +1,26 @@
 # finops
 ![Screenshot_20240705-202422_Facebook](https://github.com/user-attachments/assets/f207302e-5669-4dda-b4ad-9cbc6afacf31)
 
+**FinOps** e **Fintech** são dois conceitos ligados ao mundo financeiro e tecnológico, mas representam coisas bem diferentes. Um está relacionado à *gestão financeira de infraestrutura tecnológica*, especialmente na nuvem, enquanto o outro descreve *empresas e soluções tecnológicas voltadas para serviços financeiros*.
+
+O termo **FinOps** vem da junção de *Financial* e *Operations*. Ele descreve uma prática organizacional que busca **otimizar e controlar os custos de infraestrutura em nuvem**, criando colaboração entre times de engenharia, operações e finanças. À medida que empresas começaram a migrar suas aplicações para provedores de cloud como **Amazon Web Services**, **Microsoft** com o **Microsoft Azure**, ou **Google** com o **Google Cloud Platform**, os gastos com infraestrutura passaram a ser extremamente dinâmicos e difíceis de controlar. Diferente de datacenters tradicionais, onde havia investimento fixo em hardware, na nuvem o consumo é baseado em uso: processamento, armazenamento, tráfego de rede, bancos de dados gerenciados, entre muitos outros serviços.
+
+Nesse contexto surgiu o FinOps como uma disciplina que procura trazer **transparência, governança e otimização de custos** no uso da nuvem. O objetivo não é apenas reduzir gastos, mas também garantir que os recursos estejam sendo utilizados de maneira eficiente e alinhada com o valor gerado para o negócio. Times de engenharia passam a ter visibilidade sobre o custo das arquiteturas que constroem, enquanto equipes financeiras conseguem acompanhar o impacto econômico das decisões técnicas. Assim, FinOps envolve práticas como monitoramento de custos, análise de consumo de recursos, definição de budgets, otimização de workloads e automação para desligar recursos ociosos. Em ambientes de grande escala, isso se torna fundamental, porque pequenas ineficiências podem gerar custos muito altos quando multiplicadas por milhares de serviços e instâncias.
+
+Já o conceito de **Fintech**, abreviação de *Financial Technology*, refere-se a empresas e soluções que utilizam tecnologia para **oferecer ou melhorar serviços financeiros**. Fintechs surgiram para transformar a maneira como as pessoas lidam com dinheiro, pagamentos, crédito, investimentos e serviços bancários. Diferente dos bancos tradicionais, muitas fintechs nasceram como empresas digitais, utilizando aplicativos móveis, APIs e infraestrutura em nuvem para criar experiências financeiras mais rápidas, acessíveis e inovadoras.
+
+Exemplos conhecidos de fintechs incluem empresas como **Nubank**, **PayPal** e **Stripe**, que utilizam tecnologia para oferecer serviços como contas digitais, pagamentos online, crédito, transferências e processamento financeiro. Essas empresas frequentemente adotam arquiteturas modernas baseadas em microserviços, APIs e plataformas de dados em tempo real para suportar milhões de transações de forma segura e escalável.
+
+Portanto, enquanto FinOps é uma **disciplina de gestão operacional e financeira da infraestrutura tecnológica**, especialmente em ambientes de computação em nuvem, fintech é um **tipo de empresa ou setor da indústria** que utiliza tecnologia para reinventar serviços financeiros. Em outras palavras, FinOps trata de **como controlar e otimizar o custo da tecnologia**, enquanto fintech trata de **usar tecnologia para criar novos produtos financeiros**. Em empresas fintech modernas, inclusive, práticas de FinOps costumam ser muito importantes, porque essas empresas operam grandes infraestruturas digitais e precisam equilibrar inovação tecnológica com sustentabilidade financeira. 💻💳
+
 
 <img width="466" height="586" alt="Captura de tela 2026-01-12 183717" src="https://github.com/user-attachments/assets/ae7b6c42-9173-4dca-9b56-3705dbf85cab" />
 
 ![Screenshot_20241211-220403_Instagram](https://github.com/user-attachments/assets/0d09c7dc-5c03-4d99-9b75-25671db7acde)
 ![Screenshot_20250103-200546_Instagram](https://github.com/user-attachments/assets/c940f3c9-b6f5-4ab7-afbc-8cd53b20964b)
 ![FB_IMG_1769556734463](https://github.com/user-attachments/assets/8720935a-a29a-4420-9e11-0b88b5efb526)
+![Screenshot_20241214-162951_Instagram](https://github.com/user-attachments/assets/4a100177-ce0b-4487-a4a2-63cd7b837045)
+![Screenshot_20241203-150227_Instagram](https://github.com/user-attachments/assets/b8cb16b5-5c6d-4039-8665-59f0997642d2)
 
 - https://wire.insiderfinance.io/machine-learning-for-quants-series-with-python-part-1-8e7980bf7458
 - https://medium.com/@simplifiedzone/mastering-financial-visualization-with-python-matplotlib-seaborn-c12875cd1fc5?source=post_page---author_recirc--8e7980bf7458----3---------------------e006964a_b3c1_41c9_82f8_9b60330358db--------------
