@@ -13,6 +13,7 @@ Exemplos conhecidos de fintechs incluem empresas como **Nubank**, **PayPal** e *
 
 Portanto, enquanto FinOps é uma **disciplina de gestão operacional e financeira da infraestrutura tecnológica**, especialmente em ambientes de computação em nuvem, fintech é um **tipo de empresa ou setor da indústria** que utiliza tecnologia para reinventar serviços financeiros. Em outras palavras, FinOps trata de **como controlar e otimizar o custo da tecnologia**, enquanto fintech trata de **usar tecnologia para criar novos produtos financeiros**. Em empresas fintech modernas, inclusive, práticas de FinOps costumam ser muito importantes, porque essas empresas operam grandes infraestruturas digitais e precisam equilibrar inovação tecnológica com sustentabilidade financeira. 💻💳
 
+https://github.com/microsoft/qlib
 
 <img width="466" height="586" alt="Captura de tela 2026-01-12 183717" src="https://github.com/user-attachments/assets/ae7b6c42-9173-4dca-9b56-3705dbf85cab" />
 
