@@ -9,7 +9,9 @@ Já o conceito de **Fintech**, abreviação de *Financial Technology*, refere-se
 
 Exemplos conhecidos de fintechs incluem empresas como **Nubank**, **PayPal** e **Stripe**, que utilizam tecnologia para oferecer serviços como contas digitais, pagamentos online, crédito, transferências e processamento financeiro. Essas empresas frequentemente adotam arquiteturas modernas baseadas em microserviços, APIs e plataformas de dados em tempo real para suportar milhões de transações de forma segura e escalável.
 
-Portanto, enquanto FinOps é uma **disciplina de gestão operacional e financeira da infraestrutura tecnológica**, especialmente em ambientes de computação em nuvem, fintech é um **tipo de empresa ou setor da indústria** que utiliza tecnologia para reinventar serviços financeiros. Em outras palavras, FinOps trata de **como controlar e otimizar o custo da tecnologia**, enquanto fintech trata de **usar tecnologia para criar novos produtos financeiros**. Em empresas fintech modernas, inclusive, práticas de FinOps costumam ser muito importantes, porque essas empresas operam grandes infraestruturas digitais e precisam equilibrar inovação tecnológica com sustentabilidade financeira. 💻💳
+Portanto, enquanto FinOps é uma disciplina de gestão operacional e financeira da infraestrutura tecnológica, especialmente em ambientes de computação em nuvem, fintech é um tipo de empresa ou setor da indústria que utiliza tecnologia para reinventar serviços financeiros. Em outras palavras, FinOps trata de como controlar e otimizar o custo da tecnologia, enquanto fintech trata de usar tecnologia para criar novos produtos financeiros. 
+
+Em empresas fintech modernas, inclusive, práticas de FinOps costumam ser muito importantes, porque essas empresas operam grandes infraestruturas digitais e precisam equilibrar inovação tecnológica com sustentabilidade financeira. 💻💳
 
 https://github.com/microsoft/qlib
 
@@ -20,8 +22,13 @@ https://github.com/microsoft/qlib
   </tr>
 </table>
 
-![Screenshot_20241211-220403_Instagram](https://github.com/user-attachments/assets/0d09c7dc-5c03-4d99-9b75-25671db7acde)
-![Screenshot_20250103-200546_Instagram](https://github.com/user-attachments/assets/c940f3c9-b6f5-4ab7-afbc-8cd53b20964b)
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/0d09c7dc-5c03-4d99-9b75-25671db7acde"></td>
+    <td><img src="https://github.com/user-attachments/assets/c940f3c9-b6f5-4ab7-afbc-8cd53b20964b"></td>
+  </tr>
+</table>
+
 ![FB_IMG_1769556734463](https://github.com/user-attachments/assets/8720935a-a29a-4420-9e11-0b88b5efb526)
 ![Screenshot_20241214-162951_Instagram](https://github.com/user-attachments/assets/4a100177-ce0b-4487-a4a2-63cd7b837045)
 ![Screenshot_20241203-150227_Instagram](https://github.com/user-attachments/assets/b8cb16b5-5c6d-4039-8665-59f0997642d2)
