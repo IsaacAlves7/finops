@@ -1,6 +1,4 @@
 # finops
-![Screenshot_20240705-202422_Facebook](https://github.com/user-attachments/assets/f207302e-5669-4dda-b4ad-9cbc6afacf31)
-
 **FinOps** e **Fintech** são dois conceitos ligados ao mundo financeiro e tecnológico, mas representam coisas bem diferentes. Um está relacionado à *gestão financeira de infraestrutura tecnológica*, especialmente na nuvem, enquanto o outro descreve *empresas e soluções tecnológicas voltadas para serviços financeiros*.
 
 O termo **FinOps** vem da junção de *Financial* e *Operations*. Ele descreve uma prática organizacional que busca **otimizar e controlar os custos de infraestrutura em nuvem**, criando colaboração entre times de engenharia, operações e finanças. À medida que empresas começaram a migrar suas aplicações para provedores de cloud como **Amazon Web Services**, **Microsoft** com o **Microsoft Azure**, ou **Google** com o **Google Cloud Platform**, os gastos com infraestrutura passaram a ser extremamente dinâmicos e difíceis de controlar. Diferente de datacenters tradicionais, onde havia investimento fixo em hardware, na nuvem o consumo é baseado em uso: processamento, armazenamento, tráfego de rede, bancos de dados gerenciados, entre muitos outros serviços.
@@ -15,7 +13,12 @@ Portanto, enquanto FinOps é uma **disciplina de gestão operacional e financeir
 
 https://github.com/microsoft/qlib
 
-<img width="466" height="586" alt="Captura de tela 2026-01-12 183717" src="https://github.com/user-attachments/assets/ae7b6c42-9173-4dca-9b56-3705dbf85cab" />
+<table>
+  <tr>
+    <td><img width="466" height="586" alt="Captura de tela 2026-01-12 183717" src="https://github.com/user-attachments/assets/ae7b6c42-9173-4dca-9b56-3705dbf85cab" /></td>
+    <td><img width="466" height="586" alt="Captura de tela 2026-01-12 183717" src="https://github.com/user-attachments/assets/f207302e-5669-4dda-b4ad-9cbc6afacf31" /></td>
+  </tr>
+</table>
 
 ![Screenshot_20241211-220403_Instagram](https://github.com/user-attachments/assets/0d09c7dc-5c03-4d99-9b75-25671db7acde)
 ![Screenshot_20250103-200546_Instagram](https://github.com/user-attachments/assets/c940f3c9-b6f5-4ab7-afbc-8cd53b20964b)
