@@ -29,9 +29,12 @@ https://github.com/microsoft/qlib
   </tr>
 </table>
 
-![FB_IMG_1769556734463](https://github.com/user-attachments/assets/8720935a-a29a-4420-9e11-0b88b5efb526)
-![Screenshot_20241214-162951_Instagram](https://github.com/user-attachments/assets/4a100177-ce0b-4487-a4a2-63cd7b837045)
-![Screenshot_20241203-150227_Instagram](https://github.com/user-attachments/assets/b8cb16b5-5c6d-4039-8665-59f0997642d2)
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/4a100177-ce0b-4487-a4a2-63cd7b837045"></td>
+    <td><img src="https://github.com/user-attachments/assets/b8cb16b5-5c6d-4039-8665-59f0997642d2"></td>
+  </tr>
+</table>
 
 - https://wire.insiderfinance.io/machine-learning-for-quants-series-with-python-part-1-8e7980bf7458
 - https://medium.com/@simplifiedzone/mastering-financial-visualization-with-python-matplotlib-seaborn-c12875cd1fc5?source=post_page---author_recirc--8e7980bf7458----3---------------------e006964a_b3c1_41c9_82f8_9b60330358db--------------
