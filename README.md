@@ -72,7 +72,32 @@ Gostaríamos de ver mais guias de negociação no mercado de ações.
 ![Screenshot_20240807-152129_Instagram](https://github.com/user-attachments/assets/a5daf335-7910-4681-98c5-0e00b9ebc6bd)
 ![Screenshot_20240807-172556_Facebook](https://github.com/user-attachments/assets/e2041670-5a72-49fa-9e96-033a63c8e917)
 
-![Screenshot_20240807-172751_Instagram](https://github.com/user-attachments/assets/4900c1dd-708e-46cb-a8e2-db4601ed2a76)
+**Payroll** é o nome informal para o relatório *Non-Farm Payroll* (NFP), divulgado toda primeira sexta-feira do mês pelo Bureau of Labor Statistics (BLS) dos Estados Unidos. Ele mede a variação líquida no número de empregos fora do setor agrícola na economia americana — agricultura é excluída por ser altamente sazonal e pouco representativa da saúde geral do mercado de trabalho.
+
+O relatório traz três números principais: a variação de empregos no mês (em milhares), a taxa de desemprego e o crescimento médio dos salários por hora. Os três movem o mercado, mas o primeiro costuma ser o gatilho mais imediato.
+
+Por que o NFP move o Forex tão violentamente: O dólar americano está em um dos lados de quase 90% de todas as transações no mercado de câmbio global. Qualquer dado que altere as expectativas sobre a política monetária do Federal Reserve redefine o preço do dólar contra todas as outras moedas simultaneamente.
+
+O raciocínio da cadeia de transmissão funciona assim: um NFP forte indica que a economia americana está gerando empregos, o que pressiona os salários para cima, o que alimenta inflação, o que leva o Fed a manter ou elevar juros. Juros mais altos atraem capital estrangeiro em busca de rendimento, o que aumenta a demanda por dólares. O resultado é valorização do USD contra moedas como EUR, GBP, JPY e BRL.
+
+O caminho inverso também vale: um NFP fraco sinaliza desaceleração, reduz a probabilidade de aperto monetário, e o dólar cai enquanto ativos de risco e moedas de commodities sobem.
+
+Como o mercado reage na prática: A dinâmica de preço em torno do NFP tem três momentos distintos.
+
+Nos dias anteriores à divulgação, o mercado começa a precificar expectativas com base no consenso dos analistas. As posições se comprimem, os spreads alargam e a volatilidade implícita nas opções de câmbio sobe — os dealers se protegem do risco direcional.
+
+No momento da divulgação, a reação é quase instantânea, geralmente em milissegundos para os algoritmos e poucos segundos para traders manuais. A direção do movimento depende do *desvio em relação ao consenso*, não do número em si. Um NFP de +180 mil com consenso de +200 mil é negativo para o dólar mesmo sendo um número absolutamente positivo para a economia.
+
+O terceiro momento é a revisão. O BLS revisa os dois meses anteriores junto com cada novo relatório. Uma revisão forte para cima em meses passados pode sustentar uma alta do dólar mesmo quando o número do mês corrente decepcionou levemente.
+
+Os pares mais afetados: O EUR/USD é o par de maior liquidez do mundo e costuma ser o termômetro mais limpo da reação ao NFP. O USD/JPY se move com força porque o iene é um ativo de refúgio — em dados fortes o par sobe, em dados fracos cai. O GBP/USD é sensível porque a libra também reage a expectativas de política monetária do Banco da Inglaterra, criando movimentos compostos. Pares como USD/BRL e AUD/USD também se movem, mas com dinâmicas adicionais ligadas a commodities e risco emergente.
+
+Armadilhas comuns para quem opera o NFP: A *spike reversal* é a mais clássica: o preço dispara numa direção no segundo do dado, bate em liquidez represada de stops e ordens, e reverte nos minutos seguintes. Operar o primeiro candle do NFP sem gerenciamento de risco apertado é uma das formas mais rápidas de perder capital.
+
+O alargamento de spread nos instantes da divulgação também é relevante — brokers costumam ampliar spreads em 5x a 10x no momento exato, o que significa que uma posição que parece lucrativa no gráfico pode estar no prejuízo quando o spread é considerado.
+
+Por fim, o NFP nunca existe no vácuo. Em 2022 e 2023, por exemplo, o mercado reinterpretava dados de emprego fortes como potencialmente negativos para ações mas positivos para o dólar, enquanto em outros ciclos o mesmo dado era lido como "soft landing" e favorecia ativos de risco ao mesmo tempo. O contexto do ciclo do Fed no momento da divulgação determina como o mesmo número será lido.
+
 ![Screenshot_20240807-182157_Instagram](https://github.com/user-attachments/assets/9352c321-fdea-449f-9fc9-b67d1b32515c)
 ![Screenshot_20240807-203022_Facebook](https://github.com/user-attachments/assets/15e8a476-6a1b-4450-b9a6-a722b8985dc4)
 
