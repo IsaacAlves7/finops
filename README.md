@@ -69,10 +69,14 @@ Analisarei diariamente o conhecimento sobre ações, mercados e ações individu
 
 Gostaríamos de ver mais guias de negociação no mercado de ações.
 
-![Screenshot_20240807-152129_Instagram](https://github.com/user-attachments/assets/a5daf335-7910-4681-98c5-0e00b9ebc6bd)
-![Screenshot_20240807-172556_Facebook](https://github.com/user-attachments/assets/e2041670-5a72-49fa-9e96-033a63c8e917)
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/a5daf335-7910-4681-98c5-0e00b9ebc6bd"></td>
+    <td><img src="https://github.com/user-attachments/assets/e2041670-5a72-49fa-9e96-033a63c8e917"></td>
+  </tr>
+</table>
 
-**Payroll** é o nome informal para o relatório *Non-Farm Payroll* (NFP), divulgado toda primeira sexta-feira do mês pelo Bureau of Labor Statistics (BLS) dos Estados Unidos. Ele mede a variação líquida no número de empregos fora do setor agrícola na economia americana — agricultura é excluída por ser altamente sazonal e pouco representativa da saúde geral do mercado de trabalho.
+**Payroll** é o nome informal para o relatório *Non-Farm Payroll* (NFP), divulgado toda primeira sexta-feira do mês pelo Bureau of Labor Statistics (BLS) dos Estados Unidos. Ele mede a variação líquida no número de empregos fora do setor agrícola na economia americana, agricultura é excluída por ser altamente sazonal e pouco representativa da saúde geral do mercado de trabalho.
 
 O relatório traz três números principais: a variação de empregos no mês (em milhares), a taxa de desemprego e o crescimento médio dos salários por hora. Os três movem o mercado, mas o primeiro costuma ser o gatilho mais imediato.
 
