@@ -98,7 +98,9 @@ O alargamento de spread nos instantes da divulgação também é relevante — b
 
 Por fim, o NFP nunca existe no vácuo. Em 2022 e 2023, por exemplo, o mercado reinterpretava dados de emprego fortes como potencialmente negativos para ações mas positivos para o dólar, enquanto em outros ciclos o mesmo dado era lido como "soft landing" e favorecia ativos de risco ao mesmo tempo. O contexto do ciclo do Fed no momento da divulgação determina como o mesmo número será lido.
 
-![Screenshot_20240807-182157_Instagram](https://github.com/user-attachments/assets/9352c321-fdea-449f-9fc9-b67d1b32515c)
-![Screenshot_20240807-203022_Facebook](https://github.com/user-attachments/assets/15e8a476-6a1b-4450-b9a6-a722b8985dc4)
-
-
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/9352c321-fdea-449f-9fc9-b67d1b32515c"></td>
+    <td><img src="https://github.com/user-attachments/assets/15e8a476-6a1b-4450-b9a6-a722b8985dc4"></td>
+  </tr>
+</table>
