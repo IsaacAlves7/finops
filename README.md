@@ -110,3 +110,8 @@ Por fim, o NFP nunca existe no vácuo. Em 2022 e 2023, por exemplo, o mercado re
     <td><img src="https://github.com/user-attachments/assets/15e8a476-6a1b-4450-b9a6-a722b8985dc4"></td>
   </tr>
 </table>
+
+<img width="960" height="543" alt="490479344_1084094093735469_5986680071402128213_n" src="https://github.com/user-attachments/assets/ba23c2b0-daa0-469d-8755-42e7cff6f939" />
+
+<img width="1188" height="749" alt="491008338_1086760723468806_6702193930816108311_n" src="https://github.com/user-attachments/assets/6a30565d-26ee-4f79-9542-58fc785b6dfa" />
+
