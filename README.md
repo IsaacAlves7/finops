@@ -116,3 +116,93 @@ Por fim, o NFP nunca existe no vácuo. Em 2022 e 2023, por exemplo, o mercado re
 <img width="1188" height="749" alt="491008338_1086760723468806_6702193930816108311_n" src="https://github.com/user-attachments/assets/6a30565d-26ee-4f79-9542-58fc785b6dfa" />
 
 <img width="720" height="910" alt="Screenshot_20250103-200546_Instagram" src="https://github.com/user-attachments/assets/1db459a3-f585-488e-8a9a-c5bc2acb2aac" />
+
+Um sistema de gestão financeira é um software voltado especificamente para controlar o dinheiro e as movimentações financeiras de uma pessoa, empresa ou instituição.
+
+Enquanto um ERP gerencia praticamente toda a operação da empresa, um sistema financeiro foca principalmente em responder perguntas como:
+
+* Quanto a empresa tem em caixa?
+* Quanto ela deve?
+* Quanto tem a receber?
+* Quais contas vencem hoje?
+* Qual foi o faturamento do mês?
+* Qual o lucro?
+* Como está o fluxo de caixa?
+
+Na prática, ele ajuda a registrar e acompanhar:
+
+* contas a pagar;
+* contas a receber;
+* fluxo de caixa;
+* conciliação bancária;
+* emissão de boletos;
+* emissão de cobranças;
+* controle de despesas;
+* orçamento;
+* centros de custo;
+* projeções financeiras;
+* relatórios gerenciais.
+
+Imagine uma empresa que vende software.
+
+Quando ela fecha uma venda de R$ 1.000, o sistema financeiro pode registrar:
+
+* uma conta a receber de R$ 1.000;
+* a data de vencimento;
+* o cliente;
+* o método de pagamento.
+
+Quando o dinheiro entra na conta bancária, o sistema baixa automaticamente o título e atualiza o fluxo de caixa.
+
+Muitas empresas pequenas começam usando apenas um sistema financeiro porque não precisam da complexidade de um ERP completo.
+
+Por exemplo:
+
+```text
+Sistema Financeiro
+├── Caixa
+├── Bancos
+├── Contas a Pagar
+├── Contas a Receber
+├── Fluxo de Caixa
+└── Relatórios
+```
+
+Já um ERP seria algo mais amplo:
+
+```text
+ERP
+├── Financeiro
+├── Fiscal
+├── Contábil
+├── Estoque
+├── Compras
+├── Vendas
+├── RH
+├── Produção
+└── Logística
+```
+
+Ou seja, o módulo financeiro é apenas uma parte do ERP.
+
+Do ponto de vista de desenvolvimento de software, sistemas financeiros costumam ser muito interessantes porque envolvem conceitos que você provavelmente já conhece:
+
+* transações ACID;
+* consistência de dados;
+* concorrência;
+* auditoria;
+* trilha de auditoria (audit trail);
+* integração bancária;
+* APIs de pagamento;
+* PIX;
+* boletos;
+* cartões;
+* segurança;
+* criptografia.
+
+Por exemplo, em um sistema financeiro sério, você não pode simplesmente apagar uma movimentação de R$ 50.000 porque alguém clicou errado. Normalmente são criados estornos, registros históricos e logs de auditoria para garantir rastreabilidade.
+
+É justamente por isso que auditores de TI costumam olhar com atenção para sistemas financeiros. Um erro em um sistema de estoque pode causar transtorno operacional. Um erro em um sistema financeiro pode gerar prejuízos, fraudes, problemas contábeis ou até questões legais.
+
+Então, resumindo em uma frase: um sistema de gestão financeira é um software especializado em controlar, registrar, acompanhar e analisar o dinheiro de uma organização, enquanto um ERP utiliza esse sistema financeiro como uma das várias áreas integradas da empresa.
+
