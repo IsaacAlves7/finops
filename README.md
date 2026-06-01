@@ -62,6 +62,7 @@ Preste atenção nesses padrões, eles vão te ajudar a bater sua meta
 </table>
 
 Os gráficos de velas são a melhor ferramenta de investimento para todo investidor. Ao ler as formas e os padrões das velas, você pode prever os movimentos dos preços das ações com base nos gráficos e saber quando comprar e vender.
+
 Nossa equipe está no mercado há quase 20 anos e tem uma perspectiva única sobre a escolha de ações.
 
 Para operações de curto prazo, há análises sobre notícias, dinheiro e técnicas de linha K.
@@ -206,3 +207,4 @@ Por exemplo, em um sistema financeiro sério, você não pode simplesmente apaga
 
 Então, resumindo em uma frase: um sistema de gestão financeira é um software especializado em controlar, registrar, acompanhar e analisar o dinheiro de uma organização, enquanto um ERP utiliza esse sistema financeiro como uma das várias áreas integradas da empresa.
 
+<img width="1378" height="2200" alt="cover" src="https://github.com/user-attachments/assets/c1f48082-dbed-4662-8e59-98b6e4add6af" />
