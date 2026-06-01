@@ -1,3 +1,5 @@
+> Versículo chave: "Consagre ao Senhor tudo o que você faz, e os seus planos serão bem-sucedidos." - Provérbios 16:3
+
 # 💹 FinOps
 O termo **FinOps** vem da junção de *Financial* e *Operations*. Ele descreve uma prática organizacional que busca otimizar e controlar os custos de infraestrutura em nuvem, criando colaboração entre times de engenharia, operações e finanças. À medida que empresas começaram a migrar suas aplicações para provedores de cloud como *Amazon Web Services*, *Microsoft* com o *Microsoft Azure*, ou *Google* com o *Google Cloud Platform*, os gastos com infraestrutura passaram a ser extremamente dinâmicos e difíceis de controlar. Diferente de datacenters tradicionais, onde havia investimento fixo em hardware, na nuvem o consumo é baseado em uso: processamento, armazenamento, tráfego de rede, bancos de dados gerenciados, entre muitos outros serviços.
 
