@@ -211,4 +211,31 @@ Por exemplo, em um sistema financeiro sério, você não pode simplesmente apaga
 
 Então, resumindo em uma frase: um sistema de gestão financeira é um software especializado em controlar, registrar, acompanhar e analisar o dinheiro de uma organização, enquanto um ERP utiliza esse sistema financeiro como uma das várias áreas integradas da empresa.
 
+# Oracle NetSuite
+
+# TOTVS RM
+O **TOTVS RM** é um sistema de gestão empresarial (ERP - Enterprise Resource Planning) desenvolvido pela TOTVS, uma das maiores empresas de software de gestão do Brasil e da América Latina. O RM é voltado principalmente para instituições de médio porte, com forte presença em segmentos como educação (universidades e escolas), saúde, serviços, construção civil e órgãos públicos.
+
+O que o TOTVS RM faz: Ele é um sistema modular, o que significa que integra diversas áreas da gestão de uma organização em uma única plataforma, incluindo:
+
+- **Financeiro** — contas a pagar/receber, fluxo de caixa, conciliação bancária
+- **Contábil e Fiscal** — escrituração contábil, apuração de impostos
+- **Recursos Humanos (RH/Folha)** — folha de pagamento, ponto eletrônico, gestão de pessoas
+- **Compras e Estoque**
+- **Patrimônio**
+- **Módulos específicos**, como o Educacional (muito usado por universidades para gestão acadêmica), Saúde e Contratos
+
+A ideia central é que, ao invés de usar vários sistemas isolados, a organização tenha um único banco de dados e uma única plataforma governando todos esses processos, com informações fluindo automaticamente entre os módulos (por exemplo, uma compra gerada no módulo de estoque já reflete automaticamente no financeiro e na contabilidade).
+
+Relação com o SQL Server: O TOTVS RM é construído em cima de um banco de dados relacional, e o **SQL Server** (da Microsoft) é um dos principais SGBDs (Sistemas Gerenciadores de Banco de Dados) suportados oficialmente pela TOTVS para armazenar os dados do sistema — junto com o Oracle Database, que também é amplamente utilizado.
+
+Ou seja, toda a estrutura de tabelas, registros financeiros, cadastros de alunos/funcionários, lançamentos contábeis e demais informações do RM ficam fisicamente armazenadas em um banco SQL Server (ou Oracle) por trás da aplicação. Isso é relevante na prática porque:
+
+1. **Administradores de banco e desenvolvedores** frequentemente precisam acessar diretamente o SQL Server para criar relatórios customizados, rodar consultas (queries) específicas, fazer integrações com outros sistemas ou até corrigir dados manualmente em situações excepcionais.
+2. **Performance e manutenção** — como o RM pode lidar com grandes volumes de dados (principalmente em universidades e grandes empresas), a administração correta do SQL Server (índices, backups, jobs de manutenção) é essencial para o sistema funcionar bem.
+3. **Integrações via SQL** — muitas vezes, integrações entre o RM e outros sistemas (BI, portais, sistemas de terceiros) são feitas consultando diretamente as tabelas do banco SQL Server, ou através de views e stored procedures específicas que a TOTVS disponibiliza.
+4. **A própria aplicação RM (desenvolvida em Delphi, historicamente)** se conecta ao SQL Server via drivers ODBC/OLE DB para toda a camada de acesso a dados.
+
+Se você estiver trabalhando com TOTVS RM no contexto de desenvolvimento, integração ou administração de banco de dados, posso te ajudar com mais detalhes específicos — por exemplo, estrutura de tabelas comuns, como fazer consultas nas tabelas do RM, ou como configurar conexões com o SQL Server.
+
 <img width="1378" height="2200" alt="cover" src="https://github.com/user-attachments/assets/c1f48082-dbed-4662-8e59-98b6e4add6af" />
