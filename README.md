@@ -63,7 +63,7 @@ Preste atenção nesses padrões, eles vão te ajudar a bater sua meta
   </tr>
 </table>
 
-Os gráficos de velas são a melhor ferramenta de investimento para todo investidor. Ao ler as formas e os padrões das velas, você pode prever os movimentos dos preços das ações com base nos gráficos e saber quando comprar e vender.
+Os **gráficos de velas** ou **castiçais** (candlesticks) são a melhor ferramenta de investimento para todo investidor. Ao ler as formas e os padrões das velas, você pode prever os movimentos dos preços das ações com base nos gráficos e saber quando comprar e vender.
 
 Nossa equipe está no mercado há quase 20 anos e tem uma perspectiva única sobre a escolha de ações.
 
@@ -73,6 +73,8 @@ Para investimento de longo prazo, especialmente investimento em valor, analisare
 Analisarei diariamente o conhecimento sobre ações, mercados e ações individuais do grupo
 
 Gostaríamos de ver mais guias de negociação no mercado de ações.
+
+<img width="720" height="734" alt="Screenshot_20240812-115438_Facebook" src="https://github.com/user-attachments/assets/17728896-1a0f-4fbf-b5c7-8caf8ab554c7" />
 
 <table>
   <tr>
